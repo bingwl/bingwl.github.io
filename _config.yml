@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Bingbing Wang（王冰冰）"
+  pronouns         : "He/his"
+  bio              : "Associate Professor"
+  location         : "Zhengzhou, Henan"
+  employer         : "Zhengzhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangbingbing@ieee.org" 
 
   # Academic websites
   academia         : # URL
