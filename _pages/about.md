@@ -10,9 +10,11 @@ redirect_from:
 I am an associate proferor of School of Computer Science and Artifical Intelligence at Zhengzhou University. I obtained the Doctor degree at Shanghai Jiao Tong University (SJTU) under the supervision of Prof. [Xiaohua Tian](https://xtian.sjtu.edu.cn/). My research interests include backscatter networking and wireless sensing.
 
 # Selected Publications
-[1] **Bingbing Wang**, Z. Yang, W. Li, L. Zhong, F. Zhu, J. Lei, M. Jin, X. Tian, "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power," in ACM MobiCom 2025 (**CCF-A**).
+1. **Bingbing Wang**, Z. Yang, W. Li, L. Zhong, F. Zhu, J. Lei, M. Jin, X. Tian, "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power," in ACM MobiCom 2025 (**CCF-A**).
 
-[2] **Bingbing Wang**, W. Li, F. Zhu, J. Lei, Z. Yang, L. Zhong, M. Jin, X. Tian, "Constellation Mapping for Frequency-agile OFDM Backscatter Network," IEEE Transactions on Networking (**CCF-A**), 2025.
+2. **Bingbing Wang**, W. Li, F. Zhu, J. Lei, Z. Yang, L. Zhong, M. Jin, X. Tian, "Constellation Mapping for Frequency-agile OFDM Backscatter Network," IEEE Transactions on Networking (**CCF-A**), 2025.
+
+3. 
 
 
 
