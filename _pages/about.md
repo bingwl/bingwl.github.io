@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate proferor of [School of Computer Science and Artifical Intelligence](https://www7.zzu.edu.cn/csai/index.htm) at [Zhengzhou University](https://www.zzu.edu.cn/). 
+I am an associate proferor of School of Computer Science and Artifical Intelligence at Zhengzhou University. I obtained the Doctor degree at Shanghai Jiao Tong University (SJTU) under the supervision of Prof. [Xiaohua Tian](https://xtian.sjtu.edu.cn/). My research interests include backscatter networking and wireless sensing.
+
 
 
 A data-driven personal website
