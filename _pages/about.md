@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate proferor of School of Computer Science and Artifical Intelligence at Zhengzhou University. I obtained the Doctor degree at Shanghai Jiao Tong University (SJTU) under the supervision of Prof. [Xiaohua Tian](https://xtian.sjtu.edu.cn/). My research interests **low power wireless network** and **wireless sensing**.
+I am an associate proferor of School of Computer Science and Artifical Intelligence at Zhengzhou University. I obtained the Doctor degree at Shanghai Jiao Tong University (SJTU) under the supervision of Prof. [Xiaohua Tian](https://xtian.sjtu.edu.cn/).
+
+# Research interests and Hiring
+I am looking for undergraduate students to work on intelligent internet-of-things. Potential research directions include:
+- Artifical intelligence empowered robust **Wireless Sensing**.
+- Software algorithms or hardware design for **Ultra-low Power Wireless Communication Systems**.
+- 5G/Wi-Fi/Bluetooth/LoRa based **Integrated Sensing and Communication Technology**.
 
 # Selected Publications
 1. **Bingbing Wang**, Z. Yang, W. Li, L. Zhong, F. Zhu, J. Lei, M. Jin, X. Tian, "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power," *ACM MobiCom 2025*. **(CCF-A)**
