@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "500x300.png"
+  avatar           : "MyPhoto.png"
   name             : "Bingbing Wang（王冰冰）"
   pronouns         : "He/his"
   bio              : "Associate Professor"
