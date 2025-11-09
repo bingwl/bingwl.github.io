@@ -16,7 +16,7 @@ I am looking for undergraduate students to work on intelligent internet-of-thing
 - 5G/Wi-Fi/Bluetooth/LoRa based **Integrated Sensing and Communication Technology**.
 
 # Selected Publications
-1. **Bingbing Wang**, Z. Yang, W. Li, L. Zhong, F. Zhu, J. Lei, M. Jin, X. Tian, "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power," *ACM MobiCom 2025*. **(CCF-A)**
+1. **Bingbing Wang**, Z. Yang, W. Li, L. Zhong, F. Zhu, J. Lei, M. Jin, X. Tian, "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power," *ACM MobiCom 2025*. **(CCF-A, [PDF](https://bingwl.github.io/files/Wook-MobiCom25.pdf))**
 2. **Bingbing Wang**, W. Li, F. Zhu, J. Lei, Z. Yang, L. Zhong, M. Jin, X. Tian, "Constellation Mapping for Frequency-agile OFDM Backscatter Network", *IEEE Transactions on Networking*, vol. 33, no. 5, pp. 2115-2130, Oct. 2025. **(CCF-A)**
 3. **Bingbing Wang**, F. Zhu, L. Zhong, M. Jin, X. Wang, C. Chen, X. Guan, C. Zhou, X. Tian, "Enabling Dual-Band Wi-Fi Backscatter", *IEEE Transactions on Mobile Computing*, vol. 23, no. 12, pp. 11750-11764, Dec. 2024. **(CCF-A)**
 4. **Bingbing Wang**, F. Zhu, W. Li, Z. Yang, M. Jin, X. Tian, "Frequency-agile OFDM Backscatter", *ACM MobiSys 2024*, pp. 252 - 264. **(CCF-B)**
