@@ -23,7 +23,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MyPhoto.png"
+  avatar           : "MyPhoto2.png"
   name             : "Bingbing Wang（王冰冰）"
   pronouns         : "He/his"
   bio              : "Associate Professor"
