@@ -22,7 +22,7 @@ I am looking for undergraduate students to work on intelligent internet-of-thing
 4. **Bingbing Wang**, F. Zhu, W. Li, Z. Yang, M. Jin, X. Tian, "Frequency-agile OFDM Backscatter", *ACM MobiSys 2024*, pp. 252 - 264. **(CCF-B)**
 5. **Bingbing Wang**, Y. Zhu, J. Kang, "Two Effective Scheduling Schemes for Layered Belief Propagation of 5G LDPC Codes", *IEEE Communications Letters*, vol. 24, no. 8, pp. 1683-1686, Aug. 2020. **(IF: 4.4)**
 6. F. Zhu, R. Zhao, **Bingbing Wang**, Xiaohua Tian, X. Wang, X. Guan, C.Zhou, "Enabling OFDMA in Wi-Fi Backscatter," IEEE/ACM Transactions on Networking, vol. 32, no. 1, pp. 427-444, Feb. 2024. **(CCF-A)**
-7. F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, **Bingbing Wang**, X. Tian, "NanoScatter: Towards Ambient IoT," *ACM MobiCom 2025*. **(CCF-A)**
+7. F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, **Bingbing Wang**, X. Tian, "NanoScatter: Towards Ambient IoT," *ACM MobiCom 2025*. **(CCF-A, [PDF](https://bingwl.github.io/files/NanoScatter-MobiCom25.pdf))**
 8. F. Zhu, J. He, J. Lin, Y. Qin, **Bingbing Wang**, Q. Di, M. Jin, X. Tian, "Inductor-Free LoRa Backscatter," *IEEE/ACM Transactions on Networking*, vol. 33, no. 4, pp. 1514-1527, Aug. 2025. **(CCF-A)**
 
 # Awards
