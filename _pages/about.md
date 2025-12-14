@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate proferor of School of Computer Science and Artifical Intelligence at Zhengzhou University. I obtained the Doctor degree at Shanghai Jiao Tong University (SJTU) under the supervision of Prof. [Xiaohua Tian](https://xtian.sjtu.edu.cn/).
+I am an associate proferor of School of Computer Science and Artifical Intelligence at Zhengzhou University. I obtained the Doctor degree at Shanghai Jiao Tong University (SJTU) under the supervision of Prof. [Xiaohua Tian](https://xtian.sjtu.edu.cn/). I collaborate closely with [Fengyuan Zhu](https://swattzz.github.io/).
 
 # Research interests and Hiring
 I am looking for undergraduate students to work on intelligent internet-of-things. Potential research directions include:
