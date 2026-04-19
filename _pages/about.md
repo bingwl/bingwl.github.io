@@ -10,7 +10,7 @@ redirect_from:
 I am an associate proferor of School of Computer Science and Artificial Intelligence at Zhengzhou University. I obtained the Doctor degree at Shanghai Jiao Tong University (SJTU) under the supervision of Prof. [Xiaohua Tian](https://xtian.sjtu.edu.cn/). I collaborate closely with [Fengyuan Zhu](https://swattzz.github.io/).
 
 # Research interests and Hiring
-I am looking for undergraduate students to work on intelligent internet-of-things. Potential research directions include:
+I am looking for graduate & undergraduate students to work on intelligent internet-of-things. Potential research directions include:
 - Artifical intelligence empowered robust **Wireless Sensing**.
 - Software algorithms or hardware design for **Ultra-low Power Wireless Communication Systems**.
 - 5G/Wi-Fi/Bluetooth/LoRa based **Integrated Sensing and Communication Technology**.
@@ -22,13 +22,15 @@ I am looking for undergraduate students to work on intelligent internet-of-thing
 4. **Bingbing Wang**, F. Zhu, L. Zhong, M. Jin, X. Wang, C. Chen, X. Guan, C. Zhou, X. Tian, "Enabling Dual-Band Wi-Fi Backscatter", *IEEE Transactions on Mobile Computing*, vol. 23, no. 12, pp. 11750-11764, Dec. 2024. **(CCF-A)**
 5. **Bingbing Wang**, F. Zhu, W. Li, Z. Yang, M. Jin, X. Tian, "Frequency-agile OFDM Backscatter", *ACM MobiSys 2024*, pp. 252 - 264. **(CCF-B)**
 6. **Bingbing Wang**, Y. Zhu, J. Kang, "Two Effective Scheduling Schemes for Layered Belief Propagation of 5G LDPC Codes", *IEEE Communications Letters*, vol. 24, no. 8, pp. 1683-1686, Aug. 2020. **(IF: 4.4)**
-7. J. Lei, **Bingbing Wang**, F. Zhu, W. Li, L. Zhong, X. Tian, "Tiga: Autonomous Mode Switching Between Active and Passive Communication", *IEEE Transactions on Mobile Computing*, 2026. **(CCF-A)**
-8. Z. Yang, **Bingbing Wang**, W. Li, F. Zhu, Y. Shi, Y. Lu, Y. Zhou, X. Tian, "Enabling Symbol-Level mmWave Radar-Backscatter Communication", *IEEE Transactions on Wireless Communications*, 2026. **(Q1 Top, IF: 10.7)**
-9. Z. Yang, L. Zhong, W. Li, Y. Deng, J. Lei, F. Zhu, **Bingbing Wang**, H. Jin, X. Tian, "ORNet: OFDMA-Enabled mmWave Radar ISAC Networks", *ACM MobiCom 2026*. **(CCF-A)**
+7. Z. Yang, **Bingbing Wang**, W. Li, F. Zhu, Y. Shi, Y. Lu, Y. Zhou, X. Tian, "Enabling Symbol-Level mmWave Radar-Backscatter Communication", *IEEE Transactions on Wireless Communications*, vol. 25, pp. 12438-12452, 2026. **(Q1 Top, IF: 10.7)**
+8. J. Lei, **Bingbing Wang**, F. Zhu, W. Li, L. Zhong, X. Tian, "Tiga: Autonomous Mode Switching Between Active and Passive Communication", *IEEE Transactions on Mobile Computing*, 2026. **(CCF-A, Accepted)**
+9. Z. Yang, L. Zhong, W. Li, Y. Deng, J. Lei, F. Zhu, **Bingbing Wang**, H. Jin, X. Tian, "ORNet: OFDMA-Enabled mmWave Radar ISAC Networks", *ACM MobiCom 2026*. **(CCF-A, Accepted)**
 10. F. Zhu, R. Zhao, **Bingbing Wang**, X. Tian, X. Wang, X. Guan, C.Zhou, "Enabling OFDMA in Wi-Fi Backscatter," IEEE/ACM Transactions on Networking, vol. 32, no. 1, pp. 427-444, Feb. 2024. **(CCF-A)**
 11. F. Zhu, J. He, J. Lin, Y. Qin, **Bingbing Wang**, Q. Di, M. Jin, X. Tian, "Inductor-Free LoRa Backscatter," *IEEE/ACM Transactions on Networking*, vol. 33, no. 4, pp. 1514-1527, Aug. 2025. **(CCF-A)**
 12. F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, **Bingbing Wang**, X. Tian, "NanoScatter: Towards Ambient IoT," *ACM MobiCom 2025*, pp. 314-328. **(CCF-A)**
 13. F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, **Bingbing Wang**, X. Tian, "Demo: ASIC-based Concurrent Backscatter Networks," *ACM MobiCom 2025*, pp. 1242-1244. **(CCF-A)**
+14. W. Li, Y. Deng, F. Zhu, J. Lei, L. Zhong, Z. Yang, **Bingbing Wang**, X. Tian, "Hi-MAC: An Intelligent MAC for Heterogeneous Wireless Network," *IEEE Transactions on Mobile Computing*, 2026. **(CCF-A, Accepted)**
+15. L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, **Bingbing Wang**, X. Tian, "Towards Beamform Charging without Chicken-or-egg Dilemma," *IEEE Transactions on Mobile Computing*, 2026. **(CCF-A, Accepted)**
 
 # Patents
 1. **Bingbing Wang**, F. Zhu, X. Tian, Y. Shi, "Dual-Band WiFi Backscatter System and Implementing Method", China, ZL202310954139.9, 2025.11.
