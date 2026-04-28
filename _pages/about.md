@@ -41,10 +41,11 @@ I am looking for graduate & undergraduate students to work on intelligent intern
 2. ACM Mobicom 2025 Travel Grant.
 3. National Scholarship for Graduate Students, Ministry of Education of China, 2020.
 
-# Reviewer
+# Reviewer & Conference service
 - IEEE Transactions on Mobile Computing (CCF-A)
 - IEEE Transactions on Wireless Communication (SCI Q1, IF: 10.7)
 - IEEE Transactions on Circuits and Systems--I: Regular Papers (SCI Q1, IF: 5.2)
-- Journal of Communications and Information Networks (EI)
+- ICIoT 2026, TPC member
+- ACM MM 2026, reviewer
 
 <a href="https://info.flagcounter.com/5tMo"><img src="https://s01.flagcounter.com/count/5tMo/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
