@@ -31,6 +31,7 @@ I am looking for graduate & undergraduate students to work on intelligent intern
 13. F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, **Bingbing Wang**, X. Tian, "Demo: ASIC-based Concurrent Backscatter Networks," *ACM MobiCom 2025*, pp. 1242-1244. **(CCF-A)**
 14. W. Li, Y. Deng, F. Zhu, J. Lei, L. Zhong, Z. Yang, **Bingbing Wang**, X. Tian, "Hi-MAC: An Intelligent MAC for Heterogeneous Wireless Network," *IEEE Transactions on Mobile Computing*, 2026. **(CCF-A, Accepted)**
 15. L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, **Bingbing Wang**, X. Tian, "Towards Beamform Charging without Chicken-or-egg Dilemma," *IEEE Transactions on Mobile Computing*, 2026. **(CCF-A, Accepted)**
+16. F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, **Bingbing Wang**, X. Tian, "NanoScatter: An IC-System Co-design Towards Ambient IoT," *GetMobile: Mobile Computing and Communications*, vol. 30, no. 1, pp. 40-43, 2026. **(Research Highlight)**
 
 # Patents
 1. **Bingbing Wang**, F. Zhu, X. Tian, Y. Shi, "Dual-Band WiFi Backscatter System and Implementing Method", China, ZL202310954139.9, 2025.11.
