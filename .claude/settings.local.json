@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(which jekyll *)",
+      "Bash(which bundle *)",
+      "Bash(which ruby *)"
+    ]
+  }
+}

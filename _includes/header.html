@@ -1,0 +1,76 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+      <span class="site-title__name">
+        {%- if page.lang == 'zh' -%}
+          王冰冰
+        {%- else -%}
+          {{ site.author | default: site.title }}
+        {%- endif -%}
+      </span>
+      <span class="site-title__tag">
+        {%- if page.lang == 'zh' -%}
+          副教授 · 郑州大学
+        {%- else -%}
+          {{ site.tagline }}
+        {%- endif -%}
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Primary navigation">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger" aria-label="Toggle navigation menu">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
+            <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          </svg>
+        </span>
+      </label>
+
+      <div class="trigger">
+        {%- assign nav_home = '/' | relative_url -%}
+        {%- assign nav_pubs = '/publications/' | relative_url -%}
+        {%- assign nav_cv   = '/cv/' | relative_url -%}
+        {%- assign nav_zh   = '/zh/' | relative_url -%}
+
+        <a class="page-link" href="{{ nav_home }}#about">
+          {%- if page.lang == 'zh' -%}关于{%- else -%}About{%- endif -%}
+        </a>
+        <a class="page-link" href="{{ nav_home }}#research">
+          {%- if page.lang == 'zh' -%}研究{%- else -%}Research{%- endif -%}
+        </a>
+        <a class="page-link" href="{{ nav_pubs }}">
+          {%- if page.lang == 'zh' -%}论文{%- else -%}Publications{%- endif -%}
+        </a>
+        <a class="page-link" href="{{ nav_home }}#patents">
+          {%- if page.lang == 'zh' -%}专利{%- else -%}Patents{%- endif -%}
+        </a>
+        <a class="page-link" href="{{ nav_home }}#awards">
+          {%- if page.lang == 'zh' -%}获奖{%- else -%}Awards{%- endif -%}
+        </a>
+        <a class="page-link" href="{{ nav_home }}#service">
+          {%- if page.lang == 'zh' -%}服务{%- else -%}Service{%- endif -%}
+        </a>
+        <a class="page-link" href="{{ nav_cv }}">
+          {%- if page.lang == 'zh' -%}简历{%- else -%}CV{%- endif -%}
+        </a>
+
+        <!-- Language switcher -->
+        <a class="lang-switch" href="{% if page.lang == 'zh' %}{{ nav_home }}{% else %}{{ nav_zh }}{% endif %}"
+           data-lang="{% if page.lang == 'zh' %}en{% else %}zh{% endif %}"
+           aria-label="Switch language">
+          <span class="lang-switch__icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="2" y1="12" x2="22" y2="12"></line>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+            </svg>
+          </span>
+          <span class="lang-switch__label">
+            {%- if page.lang == 'zh' -%}EN{%- else -%}中文{%- endif -%}
+          </span>
+        </a>
+      </div>
+    </nav>
+  </div>
+</header>

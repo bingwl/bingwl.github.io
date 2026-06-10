@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en" data-lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bingbing Wang · Personal Homepage Preview</title>
+  <meta name="description" content="Bilingual academic personal homepage preview of Bingbing Wang (王冰冰).">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/main.css">
+
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+
+  <!-- Preview-only styles -->
+  <style>
+    /* Bilingual switching: hide the inactive language. */
+    [data-lang="en"] .lang-zh { display: none !important; }
+    [data-lang="zh"] .lang-en { display: none !important; }
+
+    /* Sticky preview banner so the user always knows this is a local preview. */
+    .preview-banner {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: linear-gradient(90deg, #fff7e6 0%, #ffeed1 100%);
+      border-bottom: 1px solid #f3d68c;
+      padding: 0.55rem 1.2rem;
+      font-size: 0.86rem;
+      color: #6a4d10;
+      text-align: center;
+    }
+    .preview-banner strong { color: #4a360a; }
+    .preview-banner a { color: #1a4480; font-weight: 600; }
+  </style>
+</head>
+<body>
+  <!-- Preview banner (only visible in the local preview file) -->
+  <div class="preview-banner" role="note">
+    <strong>🛈 Local Preview</strong> ·
+    <span class="lang-en">This is a self-contained preview file. To deploy, push the project to a <code>github.io</code> repository.</span>
+    <span class="lang-zh">这是一个独立的本地预览文件。要部署到线上，请将整个工程推送到 <code>github.io</code> 仓库。</span>
+  </div>
+
+  <header class="site-header" role="banner">
+    <div class="wrapper">
+      <a class="site-title" rel="author" href="#about">
+        <span class="site-title__name">
+          <span class="lang-en">Bingbing Wang</span>
+          <span class="lang-zh">王冰冰</span>
+        </span>
+        <span class="site-title__tag">
+          <span class="lang-en">Associate Professor, Zhengzhou University</span>
+          <span class="lang-zh">副教授 · 郑州大学</span>
+        </span>
+      </a>
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger" aria-label="Toggle navigation menu">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          <a class="page-link" href="#about"><span class="lang-en">About</span><span class="lang-zh">关于</span></a>
+          <a class="page-link" href="#research"><span class="lang-en">Research</span><span class="lang-zh">研究</span></a>
+          <a class="page-link" href="#publications"><span class="lang-en">Publications</span><span class="lang-zh">论文</span></a>
+          <a class="page-link" href="#patents"><span class="lang-en">Patents</span><span class="lang-zh">专利</span></a>
+          <a class="page-link" href="#awards"><span class="lang-en">Awards</span><span class="lang-zh">获奖</span></a>
+          <a class="page-link" href="#service"><span class="lang-en">Service</span><span class="lang-zh">服务</span></a>
+
+          <button class="lang-switch" id="langSwitch" type="button" aria-label="Switch language">
+            <span class="lang-switch__icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="2" y1="12" x2="22" y2="12"></line>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+              </svg>
+            </span>
+            <span class="lang-switch__label" id="langSwitchLabel">中文</span>
+          </button>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+
+      <!-- Hero / About -->
+      <section class="hero" id="about">
+        <div class="hero__photo">
+          <img src="assets/images/MyPhoto2.png" alt="Photo of Bingbing Wang">
+        </div>
+
+        <div class="hero__content">
+          <h1 class="hero__name">
+            <span class="lang-en">Bingbing Wang</span>
+            <span class="lang-zh">王冰冰</span>
+          </h1>
+          <p class="hero__title">
+            <span class="lang-en"><strong>Associate Professor</strong> &middot; School of Computer Science and Artificial Intelligence</span>
+            <span class="lang-zh"><strong>副教授</strong> &middot; 计算机与人工智能学院</span>
+          </p>
+          <p class="hero__affiliation">
+            <span class="lang-en">Zhengzhou University, China</span>
+            <span class="lang-zh">郑州大学（中国）</span>
+          </p>
+
+          <p class="hero__bio">
+            <span class="lang-en">I am an associate professor at the
+              <strong>School of Computer Science and Artificial Intelligence</strong>,
+              <strong>Zhengzhou University</strong>. I obtained my doctoral degree at
+              <strong>Shanghai Jiao Tong University (SJTU)</strong> under the supervision of
+              Prof. <a href="https://xtian.sjtu.edu.cn/" rel="noopener" target="_blank">Xiaohua Tian</a>.
+              I collaborate closely with
+              <a href="https://swattzz.github.io/" rel="noopener" target="_blank">Fengyuan Zhu</a>.
+            </span>
+            <span class="lang-zh">本人是<strong>郑州大学计算机与人工智能学院</strong>的<strong>副教授</strong>。
+              博士毕业于<strong>上海交通大学（SJTU）</strong>，导师为
+              <a href="https://xtian.sjtu.edu.cn/" rel="noopener" target="_blank">田晓华教授</a>。
+              目前与
+              <a href="https://swattzz.github.io/" rel="noopener" target="_blank">朱丰源</a>
+              老师保持密切合作。
+            </span>
+          </p>
+
+          <div class="hero__contacts">
+            <span class="hero__contact">
+              <svg class="hero__contact-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                <polyline points="22,6 12,13 2,6"></polyline>
+              </svg>
+              <a href="mailto:wangbingbing@zzu.edu.cn">wangbingbing@zzu.edu.cn</a>
+            </span>
+            <span class="hero__contact">
+              <svg class="hero__contact-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                <circle cx="12" cy="10" r="3"></circle>
+              </svg>
+              <span class="lang-en">Zhengzhou, China</span>
+              <span class="lang-zh">中国 · 郑州</span>
+            </span>
+          </div>
+
+          <div class="hero__socials">
+            <a class="social-link" href="https://scholar.google.com/citations?user=jsKU6MQAAAAJ&hl=zh-CN&oi=sra" rel="noopener" target="_blank">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M12 3l9 5-9 5-9-5 9-5zm0 8.5l9-5v9l-9 5-9-5v-9l9 5z"/></svg>
+              Google Scholar
+            </a>
+            <a class="social-link" href="https://github.com/" rel="noopener" target="_blank">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
+                <path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.56v-2.18c-3.2.7-3.87-1.36-3.87-1.36-.52-1.32-1.27-1.67-1.27-1.67-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.69 1.24 3.34.95.1-.74.4-1.24.72-1.53-2.55-.29-5.24-1.28-5.24-5.7 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.46.11-3.04 0 0 .96-.31 3.15 1.18a10.95 10.95 0 0 1 5.74 0c2.19-1.49 3.15-1.18 3.15-1.18.62 1.58.23 2.75.11 3.04.74.81 1.18 1.84 1.18 3.1 0 4.43-2.7 5.41-5.26 5.69.41.36.78 1.05.78 2.12v3.14c0 .31.21.67.8.55C20.21 21.39 23.5 17.08 23.5 12 23.5 5.65 18.35.5 12 .5z"/>
+              </svg>
+              GitHub
+            </a>
+            <a class="social-link" href="https://dblp.org/" rel="noopener" target="_blank">DBLP</a>
+            <a class="social-link" href="https://orcid.org/0000-0001-5165-6403" rel="noopener" target="_blank">ORCID</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- News -->
+      <aside class="news" aria-label="Recent updates">
+        <span class="news__title">
+          <span class="lang-en">News</span>
+          <span class="lang-zh">最新动态</span>
+        </span>
+        <ul>
+          <li>
+            <span class="news__date">[2026.01]</span>
+            <span class="lang-en">Two papers (<em>Wook</em> and <em>NanoScatter</em>) accepted to <strong>ACM MobiCom 2025</strong>; one patent granted.</span>
+            <span class="lang-zh">两篇论文（<em>Wook</em> 与 <em>NanoScatter</em>）被 <strong>ACM MobiCom 2025</strong> 接收；一项专利获得授权。</span>
+          </li>
+          <li>
+            <span class="news__date">[2025.11]</span>
+            <span class="lang-en">Patent <em>Dual-Band WiFi Backscatter System and Implementing Method</em> granted (ZL202310954139.9).</span>
+            <span class="lang-zh">专利《双频段 WiFi 反向散射系统及实现方法》获授权（ZL202310954139.9）。</span>
+          </li>
+          <li>
+            <span class="news__date">[2025.06]</span>
+            <span class="lang-en">Received the <strong>IEEE SA Working Group Award</strong> as the 1st accomplisher.</span>
+            <span class="lang-zh">荣获 <strong>IEEE SA 工作组奖</strong>（第一完成人）。</span>
+          </li>
+        </ul>
+      </aside>
+
+      <!-- Research -->
+      <section class="section" id="research">
+        <h2 class="section__title">
+          <span class="lang-en">Research Interests &amp; Hiring</span>
+          <span class="lang-zh">研究方向与招生</span>
+        </h2>
+        <p class="section__lead">
+          <span class="lang-en">I am looking for <strong>graduate and undergraduate students</strong> to work on
+            <strong>intelligent internet-of-things</strong>. If you are interested, please email me with your CV and a brief research statement.
+          </span>
+          <span class="lang-zh">常年招收对<strong>智能物联网</strong>方向感兴趣的<strong>硕士生与本科生</strong>。
+            如果您有意向，请将个人简历与简短的研究兴趣陈述发送至我的邮箱。
+          </span>
+        </p>
+
+        <div class="research-grid">
+          <div class="research-card">
+            <span class="research-card__num">01</span>
+            <h3>
+              <span class="lang-en">AI-Empowered Wireless Sensing</span>
+              <span class="lang-zh">AI 赋能的无线感知</span>
+            </h3>
+            <p>
+              <span class="lang-en">Artificial intelligence empowered robust <strong>wireless sensing</strong> for smart environments and IoT applications.</span>
+              <span class="lang-zh">面向智能家居与物联网场景，研究基于人工智能的高鲁棒<strong>无线感知</strong>技术。</span>
+            </p>
+          </div>
+          <div class="research-card">
+            <span class="research-card__num">02</span>
+            <h3>
+              <span class="lang-en">Ultra-Low Power Wireless</span>
+              <span class="lang-zh">超低功耗无线通信</span>
+            </h3>
+            <p>
+              <span class="lang-en">Software algorithms and hardware design for <strong>ultra-low power wireless communication systems</strong>.</span>
+              <span class="lang-zh">面向<strong>超低功耗无线通信系统</strong>的算法与硬件协同设计。</span>
+            </p>
+          </div>
+          <div class="research-card">
+            <span class="research-card__num">03</span>
+            <h3>
+              <span class="lang-en">Integrated Sensing &amp; Communication</span>
+              <span class="lang-zh">通感一体化（ISAC）</span>
+            </h3>
+            <p>
+              <span class="lang-en">5G / Wi-Fi / Bluetooth / LoRa based <strong>integrated sensing and communication</strong> (ISAC) technology.</span>
+              <span class="lang-zh">基于 5G / Wi-Fi / 蓝牙 / LoRa 的<strong>通信感知融合（ISAC）</strong>技术。</span>
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Publications -->
+      <section class="section" id="publications">
+        <h2 class="section__title">
+          <span class="lang-en">Selected Publications</span>
+          <span class="lang-zh">代表性论文</span>
+        </h2>
+        <p class="section__lead">
+          <span class="text-muted lang-en">Tags:</span>
+          <span class="text-muted lang-zh">标签说明：</span>
+          <span class="pub-tag pub-tag--a">CCF-A</span>
+          <span class="pub-tag pub-tag--b">CCF-B</span>
+          <span class="pub-tag pub-tag--top">Q1 Top</span>
+          <span class="lang-en">Authors in <strong>bold</strong> denote corresponding / first author.</span>
+          <span class="lang-zh">加粗为通讯作者 / 第一作者。</span>
+        </p>
+
+        <ol class="pub-list">
+          <li class="pub-item">
+            <strong>Bingbing Wang</strong>, Z. Yang, W. Li, F. Zhu, Y. Deng, P. Lv, M. Xu, X. Tian,
+            "LiteWiFi: Ultra-low Power Wi-Fi Radio for Ubiquitous IoT Connection",
+            <span class="pub-venue">IEEE INFOCOM 2026</span>.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+          </li>
+          <li class="pub-item">
+            <strong>Bingbing Wang</strong>, Z. Yang, W. Li, L. Zhong, F. Zhu, J. Lei, M. Jin, X. Tian,
+            "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power",
+            <span class="pub-venue">ACM MobiCom 2025</span>, pp. 299-313.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+          </li>
+          <li class="pub-item">
+            <strong>Bingbing Wang</strong>, W. Li, F. Zhu, J. Lei, Z. Yang, L. Zhong, M. Jin, X. Tian,
+            "Constellation Mapping for Frequency-agile OFDM Backscatter Network",
+            <span class="pub-venue">IEEE Transactions on Networking</span>, vol. 33, no. 5, pp. 2115-2130, Oct. 2025.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+          </li>
+          <li class="pub-item">
+            <strong>Bingbing Wang</strong>, F. Zhu, L. Zhong, M. Jin, X. Wang, C. Chen, X. Guan, C. Zhou, X. Tian,
+            "Enabling Dual-Band Wi-Fi Backscatter",
+            <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, vol. 23, no. 12, pp. 11750-11764, Dec. 2024.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+          </li>
+          <li class="pub-item">
+            <strong>Bingbing Wang</strong>, F. Zhu, W. Li, Z. Yang, M. Jin, X. Tian,
+            "Frequency-agile OFDM Backscatter",
+            <span class="pub-venue">ACM MobiSys 2024</span>, pp. 252-264.
+            <span class="pub-tag pub-tag--b">CCF-B</span>
+          </li>
+          <li class="pub-item">
+            <strong>Bingbing Wang</strong>, Y. Zhu, J. Kang,
+            "Two Effective Scheduling Schemes for Layered Belief Propagation of 5G LDPC Codes",
+            <span class="pub-venue">IEEE Communications Letters</span>, vol. 24, no. 8, pp. 1683-1686, Aug. 2020.
+            <span class="pub-tag pub-tag--top">IF: 4.4</span>
+          </li>
+          <li class="pub-item">
+            Z. Yang, <strong>Bingbing Wang</strong>, W. Li, F. Zhu, Y. Shi, Y. Lu, Y. Zhou, X. Tian,
+            "Enabling Symbol-Level mmWave Radar-Backscatter Communication",
+            <span class="pub-venue">IEEE Transactions on Wireless Communications</span>, vol. 25, pp. 12438-12452, 2026.
+            <span class="pub-tag pub-tag--top">Q1 Top, IF: 10.7</span>
+          </li>
+          <li class="pub-item">
+            Z. Yang, <strong>Bingbing Wang</strong>, F. Zhu, L. Zhong, W. Li, Y. Shi, Y. Lu, H. Jin, X. Tian,
+            "DDScatter: Enabling Delay-Doppler Modulation for mmWave Radar-Backscatter Communication",
+            <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, 2026.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+            <span class="pub-note lang-en">Accepted</span>
+            <span class="pub-note lang-zh">已接收</span>
+          </li>
+          <li class="pub-item">
+            J. Lei, <strong>Bingbing Wang</strong>, F. Zhu, W. Li, L. Zhong, X. Tian,
+            "Tiga: Autonomous Mode Switching Between Active and Passive Communication",
+            <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, 2026.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+            <span class="pub-note lang-en">Accepted</span>
+            <span class="pub-note lang-zh">已接收</span>
+          </li>
+          <li class="pub-item">
+            Z. Yang, L. Zhong, W. Li, Y. Deng, J. Lei, F. Zhu, <strong>Bingbing Wang</strong>, H. Jin, X. Tian,
+            "ORNet: OFDMA-Enabled mmWave Radar ISAC Networks",
+            <span class="pub-venue">ACM MobiCom 2026</span>.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+            <span class="pub-note lang-en">Accepted</span>
+            <span class="pub-note lang-zh">已接收</span>
+          </li>
+          <li class="pub-item">
+            F. Zhu, R. Zhao, <strong>Bingbing Wang</strong>, X. Tian, X. Wang, X. Guan, C. Zhou,
+            "Enabling OFDMA in Wi-Fi Backscatter",
+            <span class="pub-venue">IEEE/ACM Transactions on Networking</span>, vol. 32, no. 1, pp. 427-444, Feb. 2024.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+          </li>
+          <li class="pub-item">
+            F. Zhu, J. He, J. Lin, Y. Qin, <strong>Bingbing Wang</strong>, Q. Di, M. Jin, X. Tian,
+            "Inductor-Free LoRa Backscatter",
+            <span class="pub-venue">IEEE/ACM Transactions on Networking</span>, vol. 33, no. 4, pp. 1514-1527, Aug. 2025.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+          </li>
+          <li class="pub-item">
+            F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, <strong>Bingbing Wang</strong>, X. Tian,
+            "NanoScatter: Towards Ambient IoT",
+            <span class="pub-venue">ACM MobiCom 2025</span>, pp. 314-328.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+          </li>
+          <li class="pub-item">
+            F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, <strong>Bingbing Wang</strong>, X. Tian,
+            "Demo: ASIC-based Concurrent Backscatter Networks",
+            <span class="pub-venue">ACM MobiCom 2025</span>, pp. 1242-1244.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+          </li>
+          <li class="pub-item">
+            W. Li, Y. Deng, F. Zhu, J. Lei, L. Zhong, Z. Yang, <strong>Bingbing Wang</strong>, X. Tian,
+            "Hi-MAC: An Intelligent MAC for Heterogeneous Wireless Network",
+            <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, 2026.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+            <span class="pub-note lang-en">Accepted</span>
+            <span class="pub-note lang-zh">已接收</span>
+          </li>
+          <li class="pub-item">
+            L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, <strong>Bingbing Wang</strong>, X. Tian,
+            "Towards Beamform Charging without Chicken-or-egg Dilemma",
+            <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, 2026.
+            <span class="pub-tag pub-tag--a">CCF-A</span>
+            <span class="pub-note lang-en">Accepted</span>
+            <span class="pub-note lang-zh">已接收</span>
+          </li>
+          <li class="pub-item">
+            F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, <strong>Bingbing Wang</strong>, X. Tian,
+            "NanoScatter: An IC-System Co-design Towards Ambient IoT",
+            <span class="pub-venue">GetMobile: Mobile Computing and Communications</span>, vol. 30, no. 1, pp. 40-43, 2026.
+            <span class="pub-tag pub-tag--top lang-en">Research Highlight</span>
+            <span class="pub-tag pub-tag--top lang-zh">研究亮点</span>
+          </li>
+        </ol>
+      </section>
+
+      <!-- Patents -->
+      <section class="section" id="patents">
+        <h2 class="section__title">
+          <span class="lang-en">Patents</span>
+          <span class="lang-zh">授权专利</span>
+        </h2>
+        <ul class="simple-list">
+          <li>
+            <span class="lang-en"><strong>Bingbing Wang</strong>, F. Zhu, X. Tian, Y. Shi,
+              "Dual-Band WiFi Backscatter System and Implementing Method",
+              <span class="meta">China, ZL202310954139.9, 2025.11.</span>
+            </span>
+            <span class="lang-zh"><strong>王冰冰</strong>, 朱丰源, 田晓华, 石川,
+              《双频段 WiFi 反向散射系统及实现方法》,
+              <span class="meta">中国发明专利，ZL202310954139.9，2025.11.</span>
+            </span>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Awards -->
+      <section class="section" id="awards">
+        <h2 class="section__title">
+          <span class="lang-en">Awards</span>
+          <span class="lang-zh">获奖情况</span>
+        </h2>
+        <ul class="simple-list">
+          <li>
+            <span class="lang-en">IEEE SA Working Group Award, IEEE Standard Association, 2025 <span class="meta">(1st accomplisher)</span>.</span>
+            <span class="lang-zh">IEEE SA 工作组奖，IEEE 标准协会，2025 <span class="meta">（第一完成人）</span>。</span>
+          </li>
+          <li>
+            <span class="lang-en">ACM Mobicom 2025 Travel Grant.</span>
+            <span class="lang-zh">ACM MobiCom 2025 旅行资助奖。</span>
+          </li>
+          <li>
+            <span class="lang-en">National Scholarship for Graduate Students, Ministry of Education of China, 2020.</span>
+            <span class="lang-zh">博士研究生国家奖学金，中华人民共和国教育部，2020。</span>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Service -->
+      <section class="section" id="service">
+        <h2 class="section__title">
+          <span class="lang-en">Reviewer &amp; Conference Service</span>
+          <span class="lang-zh">审稿与会议服务</span>
+        </h2>
+        <div class="service-grid">
+          <div class="service-block">
+            <h3>
+              <span class="lang-en">Journal Reviewer</span>
+              <span class="lang-zh">期刊审稿人</span>
+            </h3>
+            <ul>
+              <li>IEEE Transactions on Mobile Computing <span class="text-muted lang-en">(CCF-A)</span><span class="text-muted lang-zh">（CCF-A）</span></li>
+              <li>IEEE Transactions on Wireless Communication <span class="text-muted lang-en">(SCI Q1, IF: 10.7)</span><span class="text-muted lang-zh">（SCI Q1，IF: 10.7）</span></li>
+              <li>IEEE Transactions on Circuits and Systems–I: Regular Papers <span class="text-muted lang-en">(SCI Q1, IF: 5.2)</span><span class="text-muted lang-zh">（SCI Q1，IF: 5.2）</span></li>
+            </ul>
+          </div>
+          <div class="service-block">
+            <h3>
+              <span class="lang-en">Conference Service</span>
+              <span class="lang-zh">会议服务</span>
+            </h3>
+            <ul>
+              <li><span class="lang-en">ICIoT 2026, TPC Member</span><span class="lang-zh">ICIoT 2026，技术程序委员（TPC）</span></li>
+              <li><span class="lang-en">ACM MM 2026, Reviewer</span><span class="lang-zh">ACM MM 2026，审稿人</span></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrapper">
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col--left">
+          <p class="footer-text">
+            &copy; 2026
+            <span class="lang-en">Bingbing Wang</span>
+            <span class="lang-zh">王冰冰</span>.
+            <span class="lang-en">All rights reserved.</span>
+            <span class="lang-zh">保留所有权利。</span>
+          </p>
+        </div>
+        <div class="footer-col footer-col--right">
+          <p class="footer-text">
+            <span class="lang-en">Built with</span>
+            <span class="lang-zh">基于</span>
+            <a href="https://jekyllrb.com/" rel="noopener" target="_blank">Jekyll</a>
+            ·
+            <span class="lang-en">Hosted on</span>
+            <span class="lang-zh">托管于</span>
+            <a href="https://pages.github.com/" rel="noopener" target="_blank">GitHub Pages</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // ---- Bilingual switcher (preview only) ----
+    (function () {
+      'use strict';
+      var html = document.documentElement;
+      var btn = document.getElementById('langSwitch');
+      var label = document.getElementById('langSwitchLabel');
+      var KEY = 'preferred-lang-preview';
+
+      function apply(lang) {
+        html.setAttribute('data-lang', lang);
+        html.setAttribute('lang', lang);
+        document.title = (lang === 'zh' ? '王冰冰 · 个人主页预览' : "Bingbing Wang · Personal Homepage Preview");
+        if (label) label.textContent = (lang === 'en' ? '中文' : 'EN');
+        try { localStorage.setItem(KEY, lang); } catch (e) {}
+      }
+
+      // Restore previous choice
+      try {
+        var saved = localStorage.getItem(KEY);
+        if (saved === 'en' || saved === 'zh') apply(saved);
+      } catch (e) {}
+
+      if (btn) {
+        btn.addEventListener('click', function () {
+          var cur = html.getAttribute('data-lang') || 'en';
+          apply(cur === 'en' ? 'zh' : 'en');
+        });
+      }
+
+      // Same niceties as the deployed site
+      var trigger = document.getElementById('nav-trigger');
+      document.querySelectorAll('.site-nav .page-link, .site-nav .lang-switch').forEach(function (el) {
+        el.addEventListener('click', function () {
+          if (trigger && trigger.checked) trigger.checked = false;
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

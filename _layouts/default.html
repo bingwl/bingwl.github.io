@@ -1,31 +1,38 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#1a4480">
 
-{% include base_path %}
+  {%- comment -%} SEO tags via jekyll-seo-tag plugin {%- endcomment -%}
+  {%- seo -%}
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
-  <body>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+  {%- feed_meta -%}
+  {%- if page.custom_css -%}
+    <link rel="stylesheet" href="{{ page.custom_css | relative_url }}">
+  {%- endif -%}
 
-    {{ content }}
+  {%- include head.html -%}
+</head>
+<body class="layout--{{ page.layout | default: layout }}">
+  {%- include header.html -%}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
     </div>
+  </main>
 
-    {% include scripts.html %}
+  {%- include footer.html -%}
 
-  </body>
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
 </html>
