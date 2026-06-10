@@ -21,7 +21,6 @@ description: >-
     <p class="hero__affiliation">郑州大学（中国）</p>
 
     <p class="hero__bio">
-      本人是<strong>郑州大学计算机与人工智能学院</strong>的<strong>副教授</strong>。
       博士毕业于<strong>上海交通大学（SJTU）</strong>，导师为
       <a href="https://xtian.sjtu.edu.cn/" rel="noopener" target="_blank">田晓华教授</a>。
       目前与
