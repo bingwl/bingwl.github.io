@@ -213,7 +213,7 @@ description: >-
   <h2 class="section__title">授权专利</h2>
   <ul class="simple-list">
     <li>
-      <strong>王冰冰</strong>, 朱丰源, 田晓华, 石川,
+      <strong>王冰冰</strong>, 朱丰源, 田晓华, 石远明,
       《双频段 WiFi 反向散射系统及实现方法》,
       <span class="meta">中国发明专利，ZL202310954139.9，2025.11.</span>
     </li>
