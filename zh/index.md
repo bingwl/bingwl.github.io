@@ -10,7 +10,7 @@ description: >-
 <!-- 英雄区 / 关于我 -->
 <section class="hero" id="about">
   <div class="hero__photo">
-    <img src="{{ '/assets/images/MyPhoto2.png' | relative_url }}" alt="王冰冰照片">
+    <img src="{{ '/assets/images/MyPhoto2.jpg' | relative_url }}" alt="王冰冰照片">
   </div>
 
   <div class="hero__content">
@@ -53,13 +53,6 @@ description: >-
         </svg>
         Google Scholar
       </a>
-      <a class="social-link" href="https://github.com/" rel="noopener" target="_blank">
-        <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
-          <path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.56v-2.18c-3.2.7-3.87-1.36-3.87-1.36-.52-1.32-1.27-1.67-1.27-1.67-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.69 1.24 3.34.95.1-.74.4-1.24.72-1.53-2.55-.29-5.24-1.28-5.24-5.7 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.46.11-3.04 0 0 .96-.31 3.15 1.18a10.95 10.95 0 0 1 5.74 0c2.19-1.49 3.15-1.18 3.15-1.18.62 1.58.23 2.75.11 3.04.74.81 1.18 1.84 1.18 3.1 0 4.43-2.7 5.41-5.26 5.69.41.36.78 1.05.78 2.12v3.14c0 .31.21.67.8.55C20.21 21.39 23.5 17.08 23.5 12 23.5 5.65 18.35.5 12 .5z"/>
-        </svg>
-        GitHub
-      </a>
-      <a class="social-link" href="https://dblp.org/" rel="noopener" target="_blank">DBLP</a>
       <a class="social-link" href="https://orcid.org/0000-0001-5165-6403" rel="noopener" target="_blank">ORCID</a>
     </div>
   </div>
@@ -69,9 +62,9 @@ description: >-
 <aside class="news" aria-label="最新动态">
   <span class="news__title">最新动态</span>
   <ul>
-    <li><span class="news__date">[2026.01]</span> 两篇论文（<em>Wook</em> 与 <em>NanoScatter</em>）被 <strong>ACM MobiCom 2025</strong> 接收；一项专利获得授权。</li>
-    <li><span class="news__date">[2025.11]</span> 专利《双频段 WiFi 反向散射系统及实现方法》获授权（ZL202310954139.9）。</li>
-    <li><span class="news__date">[2025.06]</span> 荣获 <strong>IEEE SA 工作组奖</strong>（第一完成人）。</li>
+    <li><span class="news__date">[2025.11]</span> 两篇论文（<em>Wook</em> 与 <em>NanoScatter</em>）被 <strong>ACM MobiCom 2025</strong> 接收。</li>
+    <li><span class="news__date">[2025.11]</span> 一项发明专利获得授权。</li>
+    <li><span class="news__date">[2026.05]</span> 博士后创新人才支持计划上会。</li>
   </ul>
 </aside>
 
@@ -104,13 +97,6 @@ description: >-
 <!-- 代表性论文 -->
 <section class="section" id="publications">
   <h2 class="section__title">代表性论文</h2>
-  <p class="section__lead">
-    <span class="text-muted">标签说明：</span>
-    <span class="pub-tag pub-tag--a">CCF-A</span>
-    <span class="pub-tag pub-tag--b">CCF-B</span>
-    <span class="pub-tag pub-tag--top">Q1 Top</span>
-    加粗为通讯作者 / 第一作者。
-  </p>
 
   <ol class="pub-list">
     <li class="pub-item">

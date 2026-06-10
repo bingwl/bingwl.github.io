@@ -13,7 +13,7 @@ description: >-
 <!-- Hero / About -->
 <section class="hero" id="about">
   <div class="hero__photo">
-    <img src="{{ '/assets/images/MyPhoto2.png' | relative_url }}" alt="Photo of Bingbing Wang">
+    <img src="{{ '/assets/images/MyPhoto2.jpg' | relative_url }}" alt="Photo of Bingbing Wang">
   </div>
 
   <div class="hero__content">
@@ -58,13 +58,6 @@ description: >-
         </svg>
         Google Scholar
       </a>
-      <a class="social-link" href="https://github.com/" rel="noopener" target="_blank">
-        <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
-          <path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.56v-2.18c-3.2.7-3.87-1.36-3.87-1.36-.52-1.32-1.27-1.67-1.27-1.67-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.69 1.24 3.34.95.1-.74.4-1.24.72-1.53-2.55-.29-5.24-1.28-5.24-5.7 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.46.11-3.04 0 0 .96-.31 3.15 1.18a10.95 10.95 0 0 1 5.74 0c2.19-1.49 3.15-1.18 3.15-1.18.62 1.58.23 2.75.11 3.04.74.81 1.18 1.84 1.18 3.1 0 4.43-2.7 5.41-5.26 5.69.41.36.78 1.05.78 2.12v3.14c0 .31.21.67.8.55C20.21 21.39 23.5 17.08 23.5 12 23.5 5.65 18.35.5 12 .5z"/>
-        </svg>
-        GitHub
-      </a>
-      <a class="social-link" href="https://dblp.org/" rel="noopener" target="_blank">DBLP</a>
       <a class="social-link" href="https://orcid.org/0000-0001-5165-6403" rel="noopener" target="_blank">ORCID</a>
     </div>
   </div>
@@ -74,9 +67,9 @@ description: >-
 <aside class="news" aria-label="Recent updates">
   <span class="news__title">News</span>
   <ul>
-    <li><span class="news__date">[2026.01]</span> Two papers (<em>Wook</em> and <em>NanoScatter</em>) accepted to <strong>ACM MobiCom 2025</strong>; one patent granted.</li>
-    <li><span class="news__date">[2025.11]</span> Patent <em>Dual-Band WiFi Backscatter System and Implementing Method</em> granted (ZL202310954139.9).</li>
-    <li><span class="news__date">[2025.06]</span> Received the <strong>IEEE SA Working Group Award</strong> as the 1st accomplisher.</li>
+    <li><span class="news__date">[2025.11]</span> Two papers (<em>Wook</em> and <em>NanoScatter</em>) accepted to <strong>ACM MobiCom 2025</strong>.</li>
+    <li><span class="news__date">[2025.11]</span> One invention patent granted.</li>
+    <li><span class="news__date">[2026.05]</span> Listed for review in the <strong>Postdoctoral Innovative Talent Support Program</strong> (博新计划).</li>
   </ul>
 </aside>
 
@@ -110,13 +103,6 @@ description: >-
 <!-- Publications -->
 <section class="section" id="publications">
   <h2 class="section__title">Selected Publications</h2>
-  <p class="section__lead">
-    <span class="text-muted">Tags:</span>
-    <span class="pub-tag pub-tag--a">CCF-A</span>
-    <span class="pub-tag pub-tag--b">CCF-B</span>
-    <span class="pub-tag pub-tag--top">Q1 Top</span>
-    Authors marked with <sup>*</sup> denote equal contribution or advising author.
-  </p>
 
   <ol class="pub-list">
     <li class="pub-item">
