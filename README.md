@@ -81,10 +81,6 @@ Edit [_config.yml](_config.yml):
 Drop your photo into `assets/images/` (e.g. `MyPhoto2.png`) and update the
 `<img src="…">` reference in [index.md](index.md).
 
-### Add a CV PDF
-1. Place the PDF in `assets/files/BingbingWang-CV.pdf`.
-2. The "Download CV" button on the CV page will pick it up automatically.
-
 ### Add new publications
 Either edit [index.md](index.md) (in the "Selected Publications" section) or
 use the dedicated [publications.md](publications.md) page. The CSS classes
@@ -119,7 +115,6 @@ All design tokens (colors, fonts, radii, shadows) are CSS variables in
 │   └── js/
 │       └── main.js          # Smooth scroll, nav active state
 ├── index.md                 # Homepage (hero + all sections)
-├── cv.md                    # CV page
 ├── publications.md          # Full publications list
 ├── 404.html                 # 404 page
 ├── robots.txt               # SEO crawler config

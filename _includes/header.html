@@ -30,7 +30,6 @@
       <div class="trigger">
         {%- assign nav_home = '/' | relative_url -%}
         {%- assign nav_pubs = '/publications/' | relative_url -%}
-        {%- assign nav_cv   = '/cv/' | relative_url -%}
         {%- assign nav_zh   = '/zh/' | relative_url -%}
 
         <a class="page-link" href="{{ nav_home }}#about">
@@ -50,9 +49,6 @@
         </a>
         <a class="page-link" href="{{ nav_home }}#service">
           {%- if page.lang == 'zh' -%}服务{%- else -%}Service{%- endif -%}
-        </a>
-        <a class="page-link" href="{{ nav_cv }}">
-          {%- if page.lang == 'zh' -%}简历{%- else -%}CV{%- endif -%}
         </a>
 
         <!-- Language switcher -->
