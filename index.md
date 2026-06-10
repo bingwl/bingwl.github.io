@@ -69,7 +69,7 @@ description: >-
   <ul>
     <li><span class="news__date">[2025.11]</span> Two papers (<em>Wook</em> and <em>NanoScatter</em>) accepted to <strong>ACM MobiCom 2025</strong>.</li>
     <li><span class="news__date">[2025.11]</span> One invention patent granted.</li>
-    <li><span class="news__date">[2026.05]</span> Listed for review in the <strong>Postdoctoral Innovative Talent Support Program</strong> (博新计划).</li>
+    <li><span class="news__date">[2026.05]</span> Listed for review in the <strong>Postdoctoral Fellowship Program</strong> (博新计划).</li>
   </ul>
 </aside>
 
