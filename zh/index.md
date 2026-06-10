@@ -23,9 +23,6 @@ description: >-
     <p class="hero__bio">
       博士毕业于<strong>上海交通大学（SJTU）</strong>，导师为
       <a href="https://xtian.sjtu.edu.cn/" rel="noopener" target="_blank">田晓华教授</a>。
-      目前与
-      <a href="https://swattzz.github.io/" rel="noopener" target="_blank">朱丰源</a>
-      老师保持密切合作。
     </p>
 
     <div class="hero__contacts">
@@ -224,9 +221,9 @@ description: >-
 <section class="section" id="awards">
   <h2 class="section__title">获奖情况</h2>
   <ul class="simple-list">
-    <li>IEEE SA 工作组奖，IEEE 标准协会，2025 <span class="meta">（第一完成人）</span>。</li>
-    <li>ACM MobiCom 2025 旅行资助奖。</li>
-    <li>博士研究生国家奖学金，中华人民共和国教育部，2020。</li>
+    <li>IEEE SA 工作组奖，IEEE 标准工作组，2025 <span class="meta">（第一完成人）</span>。</li>
+    <li>ACM MobiCom 2025 旅行资助。</li>
+    <li>硕士研究生国家奖学金，教育部，2020。</li>
   </ul>
 </section>
 
