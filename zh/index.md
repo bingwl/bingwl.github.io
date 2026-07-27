@@ -214,7 +214,7 @@ description: >-
       <span class="meta">项目号：2026M791705</span>。
     </li>
     <li>
-      <strong>国家资助博士后研究人员计划B类资助（Postdoctoral Fellowship Program of CPSF）</strong>。
+      <strong>国家资助博士后研究人员计划B类资助（Postdoctoral Fellowship Program of CPSF）</strong>，面向环境供能通信的近零功耗接收机关键技术研究。
       <span class="meta">项目号：GZB20260402</span>。
     </li>
     <li>

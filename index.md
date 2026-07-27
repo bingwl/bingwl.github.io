@@ -226,6 +226,7 @@ description: >-
     </li>
     <li>
       <strong>Nationally funded postdoctoral researchers program B class funding (Postdoctoral Fellowship Program of CPSF)</strong>.
+      "Key Technologies for Near-zero-power Receivers for Energy-harvesting-supported Ambient Communication".
       <span class="meta">Project No. GZB20260402</span>.
     </li>
     <li>
