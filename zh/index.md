@@ -236,7 +236,7 @@ description: >-
   <ul class="simple-list">
     <li>IEEE SA 工作组奖，IEEE 标准协会，2025 <span class="meta">（第一完成人）</span>。</li>
     <li>ACM MobiCom 2025 旅行资助奖。</li>
-    <li>博士研究生国家奖学金，中华人民共和国教育部，2020。</li>
+    <li>硕士研究生国家奖学金，中华人民共和国教育部，2020。</li>
   </ul>
 </section>
 

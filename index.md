@@ -69,7 +69,7 @@ description: >-
   <ul>
     <li><span class="news__date">[2025.11]</span> Two papers (<em>Wook</em> and <em>NanoScatter</em>) accepted to <strong>ACM MobiCom 2025</strong>.</li>
     <li><span class="news__date">[2025.11]</span> One invention patent granted.</li>
-    <li><span class="news__date">[2026.07]</span> Awarded the <strong>China Postdoctoral Science Foundation</strong> general program (博士后面上项目).</li>
+    <li><span class="news__date">[2026.07]</span> Awarded the <strong>China Postdoctoral Science Foundation</strong> general program.</li>
   </ul>
 </aside>
 
@@ -224,8 +224,8 @@ description: >-
       "Key Technologies for Near-zero-power Wideband High-rate Ambient Backscatter Communication".
     </li>
     <li>
-      <strong>Xiaomi 2026 Open Challenge Program</strong> (小米 2026 揭榜挂帅项目).
-      "Heterogeneous Interconnection for Integrated Energy-Communication IoT" (面向物联网能信一体化的异构互联关键技术研究).
+      <strong>Xiaomi 2026 Open Challenge Program</strong>.
+      "Heterogeneous Interconnection for Integrated Energy-Communication IoT".
     </li>
   </ul>
 </section>
@@ -259,7 +259,7 @@ description: >-
     <div class="service-block">
       <h3>Academic Appointments</h3>
       <ul>
-        <li>Executive Member, CCF Technical Committee on Internet of Things (CCF 物联网专委会执行委员).</li>
+        <li>Executive Member, CCF Technical Committee on Internet of Things.</li>
       </ul>
     </div>
     <div class="service-block">
