@@ -211,6 +211,11 @@ description: >-
   <ul class="simple-list">
     <li>
       <strong>博士后面上项目</strong>，近零功耗宽频段高速率环境反向散射通信关键技术研究。
+      <span class="meta">项目号：2026M791705</span>。
+    </li>
+    <li>
+      <strong>国家资助博士后研究人员计划B类资助（Postdoctoral Fellowship Program of CPSF）</strong>。
+      <span class="meta">项目号：GZB20260402</span>。
     </li>
     <li>
       <strong>小米 2026 揭榜挂帅项目</strong>，面向物联网能信一体化的异构互联关键技术研究。

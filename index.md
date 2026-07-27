@@ -222,6 +222,11 @@ description: >-
     <li>
       <strong>China Postdoctoral Science Foundation</strong> (General Program).
       "Key Technologies for Near-zero-power Wideband High-rate Ambient Backscatter Communication".
+      <span class="meta">Project No. 2026M791705</span>.
+    </li>
+    <li>
+      <strong>Nationally funded postdoctoral researchers program B class funding (Postdoctoral Fellowship Program of CPSF)</strong>.
+      <span class="meta">Project No. GZB20260402</span>.
     </li>
     <li>
       <strong>Xiaomi 2026 Open Challenge Program</strong>.
