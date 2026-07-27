@@ -60,7 +60,7 @@ description: >-
   <ul>
     <li><span class="news__date">[2025.11]</span> 两篇论文（<em>Wook</em> 与 <em>NanoScatter</em>）被 <strong>ACM MobiCom 2025</strong> 接收。</li>
     <li><span class="news__date">[2025.11]</span> 一项发明专利获得授权。</li>
-    <li><span class="news__date">[2026.05]</span> 博士后创新人才支持计划上会。</li>
+    <li><span class="news__date">[2026.07]</span> 获批<strong>博士后面上项目</strong>（China Postdoctoral Science Foundation）。</li>
   </ul>
 </aside>
 
@@ -205,6 +205,19 @@ description: >-
   </ol>
 </section>
 
+<!-- 主持项目 -->
+<section class="section" id="grants">
+  <h2 class="section__title">主持项目</h2>
+  <ul class="simple-list">
+    <li>
+      <strong>博士后面上项目</strong>，近零功耗宽频段高速率环境反向散射通信关键技术研究。
+    </li>
+    <li>
+      <strong>小米 2026 揭榜挂帅项目</strong>，面向物联网能信一体化的异构互联关键技术研究。
+    </li>
+  </ul>
+</section>
+
 <!-- 授权专利 -->
 <section class="section" id="patents">
   <h2 class="section__title">授权专利</h2>
@@ -221,16 +234,22 @@ description: >-
 <section class="section" id="awards">
   <h2 class="section__title">获奖情况</h2>
   <ul class="simple-list">
-    <li>IEEE SA 工作组奖，IEEE 标准工作组，2025 <span class="meta">（第一完成人）</span>。</li>
-    <li>ACM MobiCom 2025 旅行资助。</li>
-    <li>硕士研究生国家奖学金，教育部，2020。</li>
+    <li>IEEE SA 工作组奖，IEEE 标准协会，2025 <span class="meta">（第一完成人）</span>。</li>
+    <li>ACM MobiCom 2025 旅行资助奖。</li>
+    <li>博士研究生国家奖学金，中华人民共和国教育部，2020。</li>
   </ul>
 </section>
 
-<!-- 审稿与会议服务 -->
+<!-- 公共服务 -->
 <section class="section" id="service">
-  <h2 class="section__title">审稿与会议服务</h2>
+  <h2 class="section__title">公共服务</h2>
   <div class="service-grid">
+    <div class="service-block">
+      <h3>学术任职</h3>
+      <ul>
+        <li>CCF 物联网专委会执行委员。</li>
+      </ul>
+    </div>
     <div class="service-block">
       <h3>期刊审稿人</h3>
       <ul>
