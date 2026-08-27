@@ -67,10 +67,10 @@ description: >-
 <aside class="news" aria-label="Recent updates">
   <span class="news__title">News</span>
   <ul>
-    <li><span class="news__date">[2026.08]</span> Awarded the <strong>National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C</strong>.</li>
-    <li><span class="news__date">[2026.08]</span> Awarded the <strong> Postdoctoral Fellowship Program (Grade B) of CPSF</strong>.</li>
+    <li><span class="news__date">[2026.08]</span> Awarded the <strong>Young Scientists Fund (Category C)</strong> of the National Natural Science Foundation of China (NSFC).</li>
+    <li><span class="news__date">[2026.08]</span> Awarded the <strong>Postdoctoral Fellowship Program (Grade B) of CPSF</strong>.</li>
     <li><span class="news__date">[2026.07]</span> Awarded the <strong>China Postdoctoral Science Foundation</strong> general program.</li>
-    <li><span class="news__date">[2026.08]</span> One Work-in-Progress paper accepted by <strong>ACM MobiCom 2026</strong>.</li>
+    <li><span class="news__date">[2026.08]</span> One <strong>Work-in-Progress</strong> paper accepted to <strong>ACM MobiCom 2026</strong>.</li>
   </ul>
 </aside>
 
@@ -107,15 +107,16 @@ description: >-
 
   <ol class="pub-list">
     <li class="pub-item">
+      <strong>Bingbing Wang</strong>, F. Zhu, Z. Yang,
+      "WiP: Orthogonal Time Frequency Space Backscatter for ISAC in High-Mobility Scenarios",
+      <span class="pub-venue">ACM MobiCom 2026</span>.
+      <span class="pub-tag pub-tag--a">CCF-A</span>
+      <span class="pub-note">Accepted</span>
+    </li>
+    <li class="pub-item">
       <strong>Bingbing Wang</strong>, Z. Yang, W. Li, F. Zhu, Y. Deng, P. Lv, M. Xu, X. Tian,
       "LiteWiFi: Ultra-low Power Wi-Fi Radio for Ubiquitous IoT Connection",
       <span class="pub-venue">IEEE INFOCOM 2026</span>.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
-    </li>
-    <li class="pub-item">
-      <strong>Bingbing Wang</strong>, F. Zhu, Z. Yang, 
-      "WiP: Orthogonal Time Frequency Space Backscatter for ISAC in High-Mobility Scenarios", 
-      <span class="pub-venue">ACM MobiCom 2026</span>.
       <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
@@ -227,7 +228,7 @@ description: >-
   <h2 class="section__title">Research Grants &amp; Projects</h2>
   <ul class="simple-list">
     <li>
-      <strong>National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C</strong>.
+      <strong>National Natural Science Foundation of China</strong> (Young Scientists Fund, Category C).
       "Research on Native Wi-Fi Signal Reception Mechanisms and Methods for Passive IoT".
       <span class="meta">Project No. 62602598</span>.
     </li>
@@ -244,7 +245,6 @@ description: >-
     <li>
       <strong>Xiaomi 2026 Open Challenge Program</strong>.
       "Heterogeneous Interconnection for Integrated Energy-Communication IoT".
-      <span class="meta">Project No. 20260617A</span>.
     </li>
   </ul>
 </section>

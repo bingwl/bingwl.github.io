@@ -490,7 +490,6 @@ hr {
   font-size: 1.02rem;
   color: var(--color-text);
   margin: 0 0 1rem;
-  max-width: 70ch;
 }
 
 .section__lead strong {
