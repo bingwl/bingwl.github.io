@@ -17,6 +17,12 @@ description: >-
   <h3>2026</h3>
   <ol class="pub-list">
     <li class="pub-item">
+      <strong>Bingbing Wang</strong>, F. Zhu, Z. Yang,
+      "WiP: Orthogonal Time Frequency Space Backscatter for ISAC in High-Mobility Scenarios",
+      <span class="pub-venue">ACM MobiCom 2026</span>.
+      <span class="pub-tag pub-tag--a">CCF-A</span> <span class="pub-note">Accepted</span>
+    </li>
+    <li class="pub-item">
       <strong>Bingbing Wang</strong>, Z. Yang, W. Li, F. Zhu, Y. Deng, P. Lv, M. Xu, X. Tian,
       "LiteWiFi: Ultra-low Power Wi-Fi Radio for Ubiquitous IoT Connection",
       <span class="pub-venue">IEEE INFOCOM 2026</span>.
