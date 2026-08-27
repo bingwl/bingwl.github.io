@@ -58,9 +58,10 @@ description: >-
 <aside class="news" aria-label="最新动态">
   <span class="news__title">最新动态</span>
   <ul>
-    <li><span class="news__date">[2025.11]</span> 两篇论文（<em>Wook</em> 与 <em>NanoScatter</em>）被 <strong>ACM MobiCom 2025</strong> 接收。</li>
-    <li><span class="news__date">[2025.11]</span> 一项发明专利获得授权。</li>
-    <li><span class="news__date">[2026.07]</span> 获批<strong>博士后面上项目</strong>（China Postdoctoral Science Foundation）。</li>
+    <li><span class="news__date">[2026.08]</span> 获批<strong>国家自然科学基金青年科学基金项目（C类）</strong></li>
+    <li><span class="news__date">[2026.08]</span> 获批<strong>国家资助博士后研究人员计划（B类）</strong></li>
+    <li><span class="news__date">[2026.07]</span> 获批<strong>博士后面上项目</strong></li>
+    <li><span class="news__date">[2026.08]</span>一篇Work-in-Progress论文被<strong>MobiCom 2026</strong>接收 。</li>
   </ul>
 </aside>
 
@@ -99,6 +100,11 @@ description: >-
       <strong>Bingbing Wang</strong>, Z. Yang, W. Li, F. Zhu, Y. Deng, P. Lv, M. Xu, X. Tian,
       "LiteWiFi: Ultra-low Power Wi-Fi Radio for Ubiquitous IoT Connection",
       <span class="pub-venue">IEEE INFOCOM 2026</span>.
+      <span class="pub-tag pub-tag--a">CCF-A</span>
+    </li>
+    <li class="pub-item">
+      <strong>Bingbing Wang</strong>, F. Zhu, Z. Yang, "WiP: Orthogonal Time Frequency Space Backscatter for ISAC in High-Mobility Scenarios",
+      <span class="pub-venue">ACM MobiCom 2026</span>.
       <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
@@ -209,6 +215,10 @@ description: >-
 <section class="section" id="grants">
   <h2 class="section__title">主持项目</h2>
   <ul class="simple-list">
+    <li>
+      <strong>国家自然科学基金青年科学基金项目（C类）</strong>，面向无源物联网的原生Wi-Fi信号接收机理与方法。
+      <span class="meta">项目号：62602598</span>。
+    </li>
     <li>
       <strong>博士后面上项目</strong>，近零功耗宽频段高速率环境反向散射通信关键技术研究。
       <span class="meta">项目号：2026M791705</span>。
