@@ -67,9 +67,10 @@ description: >-
 <aside class="news" aria-label="Recent updates">
   <span class="news__title">News</span>
   <ul>
-    <li><span class="news__date">[2025.11]</span> Two papers (<em>Wook</em> and <em>NanoScatter</em>) accepted to <strong>ACM MobiCom 2025</strong>.</li>
-    <li><span class="news__date">[2025.11]</span> One invention patent granted.</li>
+    <li><span class="news__date">[2026.08]</span> Awarded the <strong>National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C</strong>.</li>
+    <li><span class="news__date">[2026.08]</span> Awarded the <strong> Postdoctoral Fellowship Program (Grade B) of CPSF</strong>.</li>
     <li><span class="news__date">[2026.07]</span> Awarded the <strong>China Postdoctoral Science Foundation</strong> general program.</li>
+    <li><span class="news__date">[2026.08]</span> One Work-in-Progress paper accepted by <strong>ACM MobiCom 2026</strong>.</li>
   </ul>
 </aside>
 
@@ -109,6 +110,12 @@ description: >-
       <strong>Bingbing Wang</strong>, Z. Yang, W. Li, F. Zhu, Y. Deng, P. Lv, M. Xu, X. Tian,
       "LiteWiFi: Ultra-low Power Wi-Fi Radio for Ubiquitous IoT Connection",
       <span class="pub-venue">IEEE INFOCOM 2026</span>.
+      <span class="pub-tag pub-tag--a">CCF-A</span>
+    </li>
+    <li class="pub-item">
+      <strong>Bingbing Wang</strong>, F. Zhu, Z. Yang, 
+      "WiP: Orthogonal Time Frequency Space Backscatter for ISAC in High-Mobility Scenarios", 
+      <span class="pub-venue">ACM MobiCom 2026</span>.
       <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
@@ -220,18 +227,24 @@ description: >-
   <h2 class="section__title">Research Grants &amp; Projects</h2>
   <ul class="simple-list">
     <li>
+      <strong>National Natural Science Foundation of China (NSFC) Young Scientists Fund, Category C</strong>.
+      "Research on Native Wi-Fi Signal Reception Mechanisms and Methods for Passive IoT".
+      <span class="meta">Project No. 62602598</span>.
+    </li>
+    <li>
       <strong>China Postdoctoral Science Foundation</strong> (General Program).
       "Key Technologies for Near-zero-power Wideband High-rate Ambient Backscatter Communication".
       <span class="meta">Project No. 2026M791705</span>.
     </li>
     <li>
-      <strong>Nationally funded postdoctoral researchers program B class funding (Postdoctoral Fellowship Program of CPSF)</strong>.
+      <strong>Postdoctoral Fellowship Program (Grade B) of CPSF</strong>.
       "Key Technologies for Near-zero-power Receivers for Energy-harvesting-supported Ambient Communication".
       <span class="meta">Project No. GZB20260402</span>.
     </li>
     <li>
       <strong>Xiaomi 2026 Open Challenge Program</strong>.
       "Heterogeneous Interconnection for Integrated Energy-Communication IoT".
+      <span class="meta">Project No. 20260617A</span>.
     </li>
   </ul>
 </section>
