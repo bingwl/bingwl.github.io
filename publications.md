@@ -8,11 +8,6 @@ description: >-
 
 <section class="section">
   <h2 class="section__title">Publications</h2>
-  <p class="section__lead">
-    Authors in <strong>bold</strong> denote corresponding / first authors.
-    For the most up-to-date list, please refer to
-    <a href="https://scholar.google.com/citations?user=jsKU6MQAAAAJ&hl=zh-CN&oi=sra" rel="noopener" target="_blank">Google Scholar</a>.
-  </p>
 
   <h3>2026</h3>
   <ol class="pub-list">
