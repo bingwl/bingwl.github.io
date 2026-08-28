@@ -59,8 +59,7 @@ description: >-
   <span class="news__title">最新动态</span>
   <ul>
     <li><span class="news__date">[2026.08]</span> 获<strong>国家自然科学基金青年科学基金项目（C类）</strong>资助。</li>
-    <li><span class="news__date">[2026.08]</span> 获<strong>国家资助博士后研究人员计划B类</strong>资助。</li>
-    <li><span class="news__date">[2026.07]</span> 获批<strong>博士后面上项目</strong>（China Postdoctoral Science Foundation）。</li>
+    <li><span class="news__date">[2026.07]</span> 当选<strong>中国计算机学会物联网专委会执行委员</strong>。</li>
     <li><span class="news__date">[2026.08]</span> 一篇 <strong>Work-in-Progress</strong> 论文被 <strong>ACM MobiCom 2026</strong> 接收。</li>
   </ul>
 </aside>
@@ -223,11 +222,9 @@ description: >-
     </li>
     <li>
       <strong>博士后面上项目</strong>，近零功耗宽频段高速率环境反向散射通信关键技术研究。
-      <span class="meta">项目号：2026M791705</span>。
     </li>
     <li>
       <strong>国家资助博士后研究人员计划B类资助（Postdoctoral Fellowship Program (Grade B) of CPSF）</strong>，面向环境供能通信的近零功耗接收机关键技术研究。
-      <span class="meta">项目号：GZB20260402</span>。
     </li>
     <li>
       <strong>小米 2026 揭榜挂帅项目</strong>，面向物联网能信一体化的异构互联关键技术研究。

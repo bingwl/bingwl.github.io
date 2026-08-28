@@ -68,8 +68,7 @@ description: >-
   <span class="news__title">News</span>
   <ul>
     <li><span class="news__date">[2026.08]</span> Awarded the <strong>Young Scientists Fund (Category C)</strong> of the National Natural Science Foundation of China (NSFC).</li>
-    <li><span class="news__date">[2026.08]</span> Awarded the <strong>Postdoctoral Fellowship Program (Grade B) of CPSF</strong>.</li>
-    <li><span class="news__date">[2026.07]</span> Awarded the <strong>China Postdoctoral Science Foundation</strong> general program.</li>
+    <li><span class="news__date">[2026.07]</span> Elected <strong>Executive Member of the CCF Technical Committee on Internet of Things</strong>.</li>
     <li><span class="news__date">[2026.08]</span> One <strong>Work-in-Progress</strong> paper accepted to <strong>ACM MobiCom 2026</strong>.</li>
   </ul>
 </aside>
@@ -235,12 +234,10 @@ description: >-
     <li>
       <strong>China Postdoctoral Science Foundation</strong> (General Program).
       "Key Technologies for Near-zero-power Wideband High-rate Ambient Backscatter Communication".
-      <span class="meta">Project No. 2026M791705</span>.
     </li>
     <li>
       <strong>Postdoctoral Fellowship Program (Grade B) of CPSF</strong>.
       "Key Technologies for Near-zero-power Receivers for Energy-harvesting-supported Ambient Communication".
-      <span class="meta">Project No. GZB20260402</span>.
     </li>
     <li>
       <strong>Xiaomi 2026 Open Challenge Program</strong>.
