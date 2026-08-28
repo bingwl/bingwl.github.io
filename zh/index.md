@@ -153,10 +153,9 @@ description: >-
     </li>
     <li class="pub-item">
       J. Lei, <strong>Bingbing Wang</strong>, F. Zhu, W. Li, L. Zhong, X. Tian,
-      "Tiga: Autonomous Mode Switching Between Active and Passive Communication",
-      <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, 2026.
+      "Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System",
+      <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, vol. 25, no. 9, pp. 13656-13672, 2026.
       <span class="pub-tag pub-tag--a">CCF-A</span>
-      <span class="pub-note">已接收</span>
     </li>
     <li class="pub-item">
       Z. Yang, L. Zhong, W. Li, Y. Deng, J. Lei, F. Zhu, <strong>Bingbing Wang</strong>, H. Jin, X. Tian,
