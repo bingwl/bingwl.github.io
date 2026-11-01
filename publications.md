@@ -15,67 +15,58 @@ description: >-
       <strong>Bingbing Wang</strong>, X. Tian, J. Lei, Z. Yang, F. Zhu, L. Zhong, Y. Deng, P. Lv, M. Xu,
       "High-throughput Wi-Fi downlink for Ambient IoT via Physical-layer Waveform Emulation",
       <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, 2026.
-      <span class="pub-tag pub-tag--a">CCF-A</span> <span class="pub-note">Accepted</span>
+      <span class="pub-note">Accepted</span>
     </li>
     <li class="pub-item">
       <strong>Bingbing Wang</strong>, F. Zhu, Z. Yang,
       "WiP: Orthogonal Time Frequency Space Backscatter for ISAC in High-Mobility Scenarios",
       <span class="pub-venue">ACM MobiCom 2026</span>, pp. 1625–1628.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       <strong>Bingbing Wang</strong>, Z. Yang, W. Li, F. Zhu, Y. Deng, P. Lv, M. Xu, X. Tian,
       "LiteWiFi: Ultra-low Power Wi-Fi Radio for Ubiquitous IoT Connection",
       <span class="pub-venue">IEEE INFOCOM 2026</span>, pp. 1-10.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       Z. Yang, <strong>Bingbing Wang</strong>, W. Li, F. Zhu, Y. Shi, Y. Lu, Y. Zhou, X. Tian,
       "Enabling Symbol-Level mmWave Radar-Backscatter Communication",
       <span class="pub-venue">IEEE Transactions on Wireless Communications</span>, vol. 25, pp. 12438-12452, 2026.
-      <span class="pub-tag pub-tag--top">Q1 Top, IF: 10.7</span>
     </li>
     <li class="pub-item">
       Z. Yang, <strong>Bingbing Wang</strong>, F. Zhu, L. Zhong, W. Li, Y. Shi, Y. Lu, H. Jin, X. Tian,
       "DDScatter: Enabling Delay-Doppler Modulation for mmWave Radar-Backscatter Communication",
       <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, vol. 25, pp. 12438-12452, Oct. 2026.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       J. Lei, <strong>Bingbing Wang</strong>, F. Zhu, W. Li, L. Zhong, X. Tian,
       "Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System",
       <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, vol. 25, no. 9, pp. 13656-13672, 2026.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       Z. Yang, L. Zhong, W. Li, Y. Deng, J. Lei, F. Zhu, <strong>Bingbing Wang</strong>, H. Jin, X. Tian,
       "ORNet: OFDMA-Enabled mmWave Radar ISAC Networks",
       <span class="pub-venue">ACM MobiCom 2026</span>, pp. 250-264.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       L. Zhong, M. Ouyang, F. Zhu, <strong>Bingbing Wang</strong>, T. Qiang, M. Jin, Y. Shi, Y. Lu, X. Tian,
       "Enhancing Wi-Fi RSS With Near-Field Reflective Surface",
       <span class="pub-venue">IEEE Transactions on Networking</span>, 2026.
-      <span class="pub-tag pub-tag--a">CCF-A</span> <span class="pub-note">Accepted</span>
+      <span class="pub-note">Accepted</span>
     </li>
     <li class="pub-item">
       W. Li, Y. Deng, F. Zhu, J. Lei, L. Zhong, Z. Yang, <strong>Bingbing Wang</strong>, X. Tian,
       "Hi-MAC: An Intelligent MAC for Heterogeneous Wireless Network",
       <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, vol. 25, no. 10, pp. 16617-16632, Oct. 2026.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       L. Zhong, T. Qiang, Y. Sha, Z. Yang, J. Lei, W. Li, F. Zhu, J. Sun, <strong>Bingbing Wang</strong>, X. Tian,
       "Towards Beamform Charging without Chicken-or-egg Dilemma",
       <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, vol. 25, no. 10, pp. 16459-16475, Oct. 2026.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, <strong>Bingbing Wang</strong>, X. Tian,
       "NanoScatter: An IC-System Co-design Towards Ambient IoT",
       <span class="pub-venue">GetMobile: Mobile Computing and Communications</span>, vol. 30, no. 1, pp. 40-43, 2026.
-      <span class="pub-tag pub-tag--top">Research Highlight</span>
     </li>
   </ol>
 
@@ -85,31 +76,26 @@ description: >-
       <strong>Bingbing Wang</strong>, Z. Yang, W. Li, L. Zhong, F. Zhu, J. Lei, M. Jin, X. Tian,
       "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power",
       <span class="pub-venue">ACM MobiCom 2025</span>, pp. 299-313.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       <strong>Bingbing Wang</strong>, W. Li, F. Zhu, J. Lei, Z. Yang, L. Zhong, M. Jin, X. Tian,
       "Constellation Mapping for Frequency-agile OFDM Backscatter Network",
       <span class="pub-venue">IEEE Transactions on Networking</span>, vol. 33, no. 5, pp. 2115-2130, Oct. 2025.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       F. Zhu, J. He, J. Lin, Y. Qin, <strong>Bingbing Wang</strong>, Q. Di, M. Jin, X. Tian,
       "Inductor-Free LoRa Backscatter",
       <span class="pub-venue">IEEE/ACM Transactions on Networking</span>, vol. 33, no. 4, pp. 1514-1527, Aug. 2025.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, <strong>Bingbing Wang</strong>, X. Tian,
       "NanoScatter: Towards Ambient IoT",
       <span class="pub-venue">ACM MobiCom 2025</span>, pp. 314-328.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       F. Zhu, J. Shen, W. Li, J. Luo, R. Zhao, L. Zhong, <strong>Bingbing Wang</strong>, X. Tian,
       "Demo: ASIC-based Concurrent Backscatter Networks",
       <span class="pub-venue">ACM MobiCom 2025</span>, pp. 1242-1244.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
   </ol>
 
@@ -119,19 +105,16 @@ description: >-
       <strong>Bingbing Wang</strong>, F. Zhu, L. Zhong, M. Jin, X. Wang, C. Chen, X. Guan, C. Zhou, X. Tian,
       "Enabling Dual-Band Wi-Fi Backscatter",
       <span class="pub-venue">IEEE Transactions on Mobile Computing</span>, vol. 23, no. 12, pp. 11750-11764, Dec. 2024.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
     <li class="pub-item">
       <strong>Bingbing Wang</strong>, F. Zhu, W. Li, Z. Yang, M. Jin, X. Tian,
       "Frequency-agile OFDM Backscatter",
       <span class="pub-venue">ACM MobiSys 2024</span>, pp. 252-264.
-      <span class="pub-tag pub-tag--b">CCF-B</span>
     </li>
     <li class="pub-item">
       F. Zhu, R. Zhao, <strong>Bingbing Wang</strong>, X. Tian, X. Wang, X. Guan, C. Zhou,
       "Enabling OFDMA in Wi-Fi Backscatter",
       <span class="pub-venue">IEEE/ACM Transactions on Networking</span>, vol. 32, no. 1, pp. 427-444, Feb. 2024.
-      <span class="pub-tag pub-tag--a">CCF-A</span>
     </li>
   </ol>
 
@@ -141,7 +124,6 @@ description: >-
       <strong>Bingbing Wang</strong>, Y. Zhu, J. Kang,
       "Two Effective Scheduling Schemes for Layered Belief Propagation of 5G LDPC Codes",
       <span class="pub-venue">IEEE Communications Letters</span>, vol. 24, no. 8, pp. 1683-1686, Aug. 2020.
-      <span class="pub-tag pub-tag--top">IF: 4.4</span>
     </li>
   </ol>
 </section>
